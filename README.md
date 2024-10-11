@@ -6,12 +6,8 @@
 ---
 
 ### 🌟 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues" />
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif" width="200" />
-</p>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues) | ![Linkin Park](https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif) |
+|:---:|:---:|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadanbs&layout=compact&theme=radical)
 
