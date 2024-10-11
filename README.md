@@ -1,6 +1,7 @@
 ## Holla Diablosss 👋
 
-💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/jihadan-beckhianosyuhada-68b977277/) | [Instagram](https://www.instagram.com/jihadanbs/)
+💬 Let's connect: 
+[LinkedIn](https://www.linkedin.com/in/jihadan-beckhianosyuhada-68b977277/) | [Instagram](https://www.instagram.com/jihadanbs/) | [Spotify](https://open.spotify.com/user/312hpl6ybsbnjupjgg3oxlmqvkhy?si=21c1bd200d704742)
 
 ---
 
