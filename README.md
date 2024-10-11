@@ -1,14 +1,17 @@
 ## Holla Diablosss 👋
 
-![Linkin Park](https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif)
-
 💬 Let's connect: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihadan-beckhianosyuhada-68b977277/) | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jihadanbs/) | [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/312hpl6ybsbnjupjgg3oxlmqvkhy?si=21c1bd200d704742)
 
 ---
 
 ### 🌟 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues" />
+</p>
+<p align="right">
+  <img src="https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif" width="200" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadanbs&layout=compact&theme=radical)
 
