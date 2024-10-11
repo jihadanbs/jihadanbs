@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadanbs&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jihadanbs&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jihadanbs&theme=dracula)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jihadanbs)
 
