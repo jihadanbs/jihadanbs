@@ -6,15 +6,11 @@
 ---
 
 ### 🌟 GitHub Stats
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues" alt="Anurag's GitHub stats" width="200" />
-  <img src="https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif" width="200" style="margin-left: 10px; border: none; outline: none;" alt="Linkin Park GIF" />
-</div>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihadanbs&show_icons=true&theme=radical&hide=stars,issues) | <img src="https://media.giphy.com/media/anCamQZTZi2mcxmW7T/giphy.gif" width="100"/> |
+|:---:|:---:| 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadanbs&layout=compact&theme=radical" alt="Top Languages" width="200" />
-  <img src="https://media.giphy.com/media/kWKy3Y6nX5OzqDSoQr/giphy.gif?cid=790b7611bz838sml66c1q2pf4fz61c1jhr3a0krdjp07oz00&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" style="margin-left: 10px; border: none; outline: none;" alt="Second GIF" />
-</div>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadanbs&layout=compact&theme=radical) | <img src="https://media.giphy.com/media/kWKy3Y6nX5OzqDSoQr/giphy.gif?cid=790b7611bz838sml66c1q2pf4fz61c1jhr3a0krdjp07oz00&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> |
+|:---:|:---:| 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jihadanbs&theme=dracula)
 
