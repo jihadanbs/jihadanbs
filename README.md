@@ -50,6 +50,7 @@
 ---
 
 ### 🌱 Currently Learning:
+- Backend development with Golang
 - Mobile app development with Kotlin
 - Backend development with Laravel, CI & MySQL
 - Backend development with Express.js & MongoDB
