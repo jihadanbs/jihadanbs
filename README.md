@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihadan-beckhianosyuhada-68b977277/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jihadanbs/) 
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/312hpl6ybsbnjupjgg3oxlmqvkhy?si=21c1bd200d704742)
+[![Codewars](https://www.codewars.com/users/jihadanbs/badges/large)](https://www.codewars.com/users/jihadanbs)
+
 
 ---
 
