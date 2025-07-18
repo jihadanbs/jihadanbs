@@ -152,7 +152,7 @@ const jihadan = {
         "C++ Systems Programming",
         "Network Security & Penetration Testing"
     ],
-    goals2024: [
+    goals2025_2026: [
         "Master Linux server administration",
         "Get cybersecurity certifications (CEH/OSCP)",
         "Build security tools with Python",
