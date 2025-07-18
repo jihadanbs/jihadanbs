@@ -143,8 +143,6 @@
 
 ## 🌱 Currently Learning & Goals
 
-<div align="center">
-
 ```javascript
 const jihadan = {
     currentFocus: [
@@ -163,8 +161,6 @@ const jihadan = {
     funFact: "I secure systems by day and code by night! 🔒💻"
 };
 ```
-
-</div>
 
 ---
 
