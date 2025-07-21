@@ -1,21 +1,22 @@
-# 👋 Hi there, I'm Jihadan Beckhianosyuhada!
+# 👋 Hi there! I'm Jihadan Beckhianosyuhada!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Linux+%26+Cybersecurity+Enthusiast;Python+%26+C%2B%2B+Programmer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=C%2B%2B+%26+Python+Enthusiast+⚡;Linux+System+Explorer+🐧;Cybersecurity+Journey+🔒;System+Programming+Learner;Always+Curious%2C+Always+Learning!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> *"Passionate developer who turns coffee into code and ideas into reality"*
+> *"From command line to low-level programming - building a solid foundation one step at a time"*
 
-- 🔭 Currently mastering **Linux System Administration** & **Cybersecurity**
-- 🌱 Exploring **Python Programming** & **C++ Development**
-- 💡 Love building **Secure Applications** and **System Programming**
-- 🔒 Passionate about **Ethical Hacking** and **Security Research**
-- 🎵 Music enthusiast who codes to the rhythm
-- 🌍 Based in Indonesia, coding for the world
+- 🔭 **Main Focus**: Deep diving into **C++ Programming** & **Python Development**
+- 🐧 Seriously learning **Linux System Administration** & **Command Line Mastery**
+- 🔒 Passionate about **Cybersecurity** and **Ethical Hacking Fundamentals**
+- ⚡ Love **System Programming** and **Security Automation**
+- 🎯 **1-Year Target**: Master C++, Python, Linux, and Cybersecurity fundamentals
+- 🌱 Focused on **low-level programming** and **system security**
+- 🌍 From Indonesia, coding with dedication
 
 ### 🌐 Portfolio & Connect
 <div align="center">
@@ -29,81 +30,58 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Learning Stack
 
-### 💻 Programming Languages
+### ⚡ System Programming
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 </div>
 
-### 🔒 Cybersecurity & System Administration
+### 🐧 Linux Mastery Journey
 <div align="center">
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
-### 🐍 Python Development
+### 🔒 Cybersecurity Toolkit
+<div align="center">
+  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+
+</div>
+
+### 🐍 Python for Security & Automation
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-### 🌐 Web Development
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E14B32?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Technologies
+### 🔧 Development Tools
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
@@ -126,13 +104,13 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Learning Progress & Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jihadanbs&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
 </div>
 
-### 🥋 Codewars Progress
+### 🥋 Coding Challenge Progress
 <div align="center">
   
 [![Codewars](https://www.codewars.com/users/jihadanbs/badges/large)](https://www.codewars.com/users/jihadanbs)
@@ -141,41 +119,127 @@
 
 ---
 
-## 🌱 Currently Learning & Goals
+## 🎯 One Year Learning Roadmap (2025-2026)
 
-```javascript
-const jihadan = {
-    currentFocus: [
-        "Linux System Administration & Command Line",
-        "Cybersecurity & Ethical Hacking", 
-        "Python Programming & Automation",
-        "C++ Systems Programming",
-        "Network Security & Penetration Testing"
-    ],
-    goals2025_2026: [
-        "Master Linux server administration",
-        "Get cybersecurity certifications (CEH/OSCP)",
-        "Build security tools with Python",
-        "Contribute to cybersecurity open source projects"
-    ],
-    funFact: "I secure systems by day and code by night! 🔒💻"
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class LearningPlan {
+private:
+    std::string name = "Jihadan Beckhianosyuhada";
+    std::vector<std::string> mainFocus;
+    std::vector<std::string> yearGoals;
+    
+public:
+    LearningPlan() {
+        // Core focus areas for the next year
+        mainFocus = {
+            "🔥 C++ System Programming (Advanced Level)",
+            "🐍 Python Security Automation",  
+            "🐧 Linux System Administration & Command Line Mastery",
+            "🔒 Cybersecurity Fundamentals & Ethical Hacking",
+            "⚡ Low-level Programming & Memory Management"
+        };
+        
+        yearGoals = {
+            "Master C++ STL and advanced concepts",
+            "Build security tools with Python",
+            "Achieve Linux+ level system administration",
+            "Complete cybersecurity certification path",
+            "Contribute to open-source security projects"
+        };
+    }
+    
+    void displayMotivation() {
+        std::cout << "🚀 Focus, dedication, and consistency - that's my formula!" << std::endl;
+        std::cout << "🎯 One year, four core skills, unlimited possibilities!" << std::endl;
+    }
 };
+
+int main() {
+    LearningPlan jihadan;
+    jihadan.displayMotivation();
+    return 0;
+}
 ```
 
 ---
 
-## 💡 Fun Facts About Me
+## 📚 Current Learning Progress
+
+### 🏗️ **Phase 1: Foundation Building** (0-4 months)
+- **C++ Basics**: ✅ Syntax, OOP Concepts
+- **Python Scripting**: ✅ Core Libraries, Basic Automation 
+- **Linux Essentials**: 🔄 Command Line, File System
+- **Security Fundamentals**: 🔄 Network Basics, Protocols
+
+### 🚀 **Phase 2: Skill Development** (4-8 months)
+- **C++ Advanced**: 📋 STL, Memory Management, Multithreading
+- **Python Security**: 📋 Penetration Testing Scripts, Network Programming
+- **Linux Administration**: 📋 System Admin, Server Management
+- **Ethical Hacking**: 📋 Vulnerability Assessment, Penetration Testing
+
+### 🎯 **Phase 3: Specialization** (8-12 months)
+- **C++ Projects**: 📋 System Tools, Performance Optimization
+- **Python Mastery**: 📋 Advanced Security Automation
+- **Linux Expert**: 📋 Kernel, Security Hardening
+- **Cybersecurity Pro**: 📋 Advanced Threats, Incident Response
+
+---
+
+## 🔥 Current Learning Status
+
+```
+C++ Programming           ████████████░░░░░░░░  60%
+Python Development        ██████░░░░░░░░░░░░░░  30%  
+Linux System Admin        ██████████░░░░░░░░░░  50%
+Cybersecurity Basics      ██████████░░░░░░░░░░  50%
+System Programming        ████████████░░░░░░░░  60%
+```
+
+---
+
+## 🛠️ Learning Projects & Practice
+
+- ⚡ **C++ System Tools**: Building command-line utilities and file managers
+- 🐍 **Python Security Scripts**: Network scanners and automation tools  
+- 🐧 **Linux Lab Environment**: Personal server setup for practice
+- 🔒 **Cybersecurity Playground**: Vulnerable apps for ethical hacking practice
+- 📚 **Documentation**: Creating tutorials and cheat sheets for reference
+
+---
+
+## 💡 Learning Philosophy
 
 <div align="center">
   
-🐧 **Linux Enthusiast** - Mastering the command line and system administration  
-🔒 **Security Researcher** - Passionate about cybersecurity and ethical hacking  
-🐍 **Python Developer** - Building automation tools and security scripts  
-⚡ **C++ Programmer** - Creating efficient system-level applications  
-📚 **Lifelong Learner** - Constantly upgrading my skills and knowledge  
-🚀 **Problem Solver** - Love turning complex problems into elegant solutions  
+🎯 **Deep Focus** - Four core skills, no distractions  
+⚡ **Hands-On Practice** - More coding, less tutorial watching  
+🔄 **Consistent Progress** - Small but consistent daily improvements  
+🐧 **Linux First** - All development and learning in Linux environment  
+🔒 **Security Mindset** - Always think about security in every line of code  
+📈 **Measurable Goals** - Clear targets with trackable progress  
 
 </div>
+
+---
+
+## 📖 Learning Resources Currently Following
+
+### 📚 **Books & References**
+- "The C++ Programming Language" - Bjarne Stroustrup
+- "Effective C++" - Scott Meyers  
+- "Automate the Boring Stuff with Python" - Al Sweigart
+- "The Linux Command Line" - William Shotts
+- "Kali Linux Revealed" - Offensive Security Team
+
+### 🎓 **Online Courses & Platforms**
+- TryHackMe - Cybersecurity Challenges
+- HackerRank - C++ & Python Problem Solving
+- Linux Academy - System Administration
+- Cybrary - Ethical Hacking Fundamentals
 
 ---
 
@@ -192,20 +256,23 @@ const jihadan = {
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect & Share Knowledge!
 
 <div align="center">
   
-*"Great things in business are never done by one person; they're done by a team of people."*
+*"The expert in anything was once a beginner who refused to give up."*
 
-**Let's build something amazing together!** 🚀
+**Focused Learning Journey - C++ | Python | Linux | Cybersecurity** 🎯
 
-![Profile Views](https://komarev.com/ghpvc/?username=jihadanbs&color=blueviolet&style=for-the-badge)
+Feel free to reach out if you want to discuss C++, Python, Linux, or cybersecurity! 
+Always open to collaboration and knowledge sharing! 🤝
+
+![Profile Views](https://komarev.com/ghpvc/?username=jihadanbs&color=blueviolet&style=for-the-badge&label=Focused+Learning+Journey)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Stay%20Focused%2C%20Stay%20Consistent!&fontSize=20&fontColor=ffffff"/>
 </div>
