@@ -199,7 +199,7 @@ int main() {
 C++ Programming           ████████████░░░░░░░░  60%
 Python Development        ██████░░░░░░░░░░░░░░  30%  
 Linux System Admin        ██████████░░░░░░░░░░  50%
-Cybersecurity Basics      ██████████░░░░░░░░░░  50%
+Cybersecurity Basics      █████████████░░░░░░░  70%
 System Programming        ████████████░░░░░░░░  60%
 ```
 
