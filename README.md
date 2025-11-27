@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Jihadan Beckhianosyuhada!
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/5806502.png" alt="TryHackMe Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5806502" style='border:none;'></iframe>
 </div>
 
 <div align="center">
