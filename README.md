@@ -1,6 +1,10 @@
 # 👋 Hi there! I'm Jihadan Beckhianosyuhada!
 
 <div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/5806502.png" alt="TryHackMe Badge" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=C%2B%2B+%26+Python+Enthusiast+%E2%9A%A1;Linux+System+Explorer+%F0%9F%90%A7;Cybersecurity+Journey+%F0%9F%94%92;System+Programming+Learner;Always+Curious%2C+Always+Learning!" alt="Typing SVG" />
 </div>
 
